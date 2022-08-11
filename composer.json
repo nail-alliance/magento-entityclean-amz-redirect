@@ -1,5 +1,5 @@
 {
-    "name": "nailalliance/entityclean-amazon-redirect",
+    "name": "nailalliance/entityclean-m2-redirect",
     "description": "Overrides the core one page checkout to send all shoppers to Amazon",
     "type": "magento2-module",
     "version": "1.0.0",
